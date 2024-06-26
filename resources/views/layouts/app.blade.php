@@ -32,6 +32,7 @@
                 <td class="td2">Usuario da Força</td>
                 <td class="td2">Espécie</td>
                 <td class="td2">Cor Sabre De Luz</td>
+                    
             </tr>
         </table>
         </div>
