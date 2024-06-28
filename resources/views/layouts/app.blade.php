@@ -15,12 +15,12 @@
             <div id="botao">CRIAR TABELA</div> 
         </div>
 
-        <div id="bordaBotao">
-            <div id="botao">Excluir</div> 
+        <div id="bordaBotao2">
+            <div id="botao2">Excluir</div> 
         </div>
 
-        <div id="bordaBotao">
-            <div id="botao">Editar</div> 
+        <div id="bordaBotao3">
+            <div id="botao3">Editar</div> 
         </div>
     </div>
     <div id="fundo">

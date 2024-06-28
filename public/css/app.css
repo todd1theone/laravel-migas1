@@ -76,4 +76,52 @@
         display: flex;
         align-items: center;
     }
+    #botao1 {
+        width: 92%;
+        height: 5vh;
+        background-color: #136B7E;
+        margin-left: 4%;
+        font-family: "Roboto", sans-serif;
+        font-weight: 1 00;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #FFF9DF;
+        text-shadow: 2px 2px #153949;
+    }
+    #bordaBotao1 {
+        margin-bottom: -10vh;
+        width: 8%;
+        height: 6vh;
+        background-color: #153949;
+        margin-left: 11%;
+        margin-bottom: -10vh;
+        display: flex;
+        align-items: center;
+    }
+
+    #botao2 {
+        width: 92%;
+        height: 5vh;
+        background-color: #136B7E;
+        margin-left: 4%;
+        font-family: "Roboto", sans-serif;
+        font-weight: 1 00;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #FFF9DF;
+        text-shadow: 2px 2px #153949;
+    }
+    #bordaBotao2 {
+        margin-bottom: -10vh;
+        width: 8%;
+        height: 6vh;
+        background-color: #153949;
+        margin-left: 11%;
+        margin-bottom: -10vh;
+        display: flex;
+        align-items: center;
+    }
+
 
